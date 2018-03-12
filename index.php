@@ -1,5 +1,4 @@
 <?php
-// Ceci est un commentaire
-$toto = "Ceci est une chaîne de caractere débile";
+include "./includes/header.php";
+include "./includes/footer.php";
 
-echo $toto;
