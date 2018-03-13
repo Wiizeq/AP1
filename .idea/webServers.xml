@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cb107cdb-7c82-4c26-90d8-51679c634639" name="AP1" url="http://localhost/CESI/AP1">
+        <fileTransfer port="0" mountedRoot="C:\wamp640\www\CESI\AP1" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
